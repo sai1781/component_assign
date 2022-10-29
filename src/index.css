@@ -1,0 +1,15 @@
+.app{
+  font-weight: 700;
+  /* display: flex; */
+  /* align-items: flex-start; */
+}
+.app p{
+  display: flex;
+  justify-content: flex-start;
+  font-weight: 100 !important;
+}
+hr{
+  height: 0.5px;
+  color: black;
+  background-color: black;
+}
